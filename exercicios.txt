@@ -1,0 +1,69 @@
+Exercício 1
+1. Das cinco frases abaixo, quatro delas não são proposições.
+
+I. Que belo dia!
+II. Um excelente livro de raciocínio lógico.
+III. O jogo terminou empatado?
+IV. João é professor de matemática.
+V. Escreva uma poesia.
+
+Resposta: IV
+
+
+
+2. A negação da proposição “Antônio passa na prova ou vai ao cinema
+em Novo Horizonte” é:
+
+a. Antônio não passa na prova.
+b. Antônio não vai ao cinema em Novo Horizonte.
+c. Antônio não passa na prova ou não vai ao cinema em Novo
+Horizonte.
+d. Antônio não passa na prova e não vai ao cinema em Novo
+Horizonte.
+e. Se Antônio passa na prova, então vai ao cinema em Novo
+Horizonte.
+
+Resposta: d.
+
+
+Exercícios sobre Algoritmos
+
+1. Faça um algoritmo para fazer café.
+
+a. Pegar os ingredientes: café, água e açúcar.
+b. Pegar uma chaleira.
+c. Colocar a água na chaleira.
+d. Ligar o fogo e colocar a chaleira no fogo.
+e. Esperar a água ferver.
+f. Colocar o café no coador.
+g. Passar a água pelo coador.
+h. Adicionar açúcar, caso queira.
+
+
+2. Faça um algoritmo para fazer compras de remédios.
+
+a. Consultar um médico.
+b. Receber a receita.
+c. Procurar uma farmácia.
+d. Entrar na farmácia.
+e. Entregar a receita ao farmacêutico.
+f. Pegar o remédio.
+g. Ir ao caixa.
+h. Pagar o remédio.
+
+
+3. Faça um algoritmo para fazer um bolo de chocolate.
+
+a. Pegar os ingredientes: Farinha, açúcar, leite, ovos, fermento e chocolate.
+b. Misturar todos os ingredientes em um recipiente ou em uma batedeira.
+c. Ligar o forno e esperar o forno pré-aquecer.
+d. Untar uma forma com manteiga.
+e. Colocar a massa na forma.
+f. Colocar a forma no forno.
+g. Aguardar meia hora.
+h. Verificar se o bolo está assado colocando um palito limpo no meio do bolo.
+i. Enquanto o bolo estiver assando:
+j. 	Se o palito sair sujo:
+k.		Esperar mais 10 min.
+l. 	Senão:
+m.		Retirar o bolo do forno.
